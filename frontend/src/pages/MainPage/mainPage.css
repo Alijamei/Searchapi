@@ -1,0 +1,9 @@
+.background{
+  background-image: url('C:/Users/wxfcc/Downloads/fetchweb/frontend/src/assests/night.jpg');
+  width: 100%;
+  height: 100vh;
+  margin:0;
+  filter: brightness(90%);  
+  background-size: cover; 
+  position:relative;
+}
