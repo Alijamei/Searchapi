@@ -2,7 +2,7 @@
 Installion steps
 
 Frontend
-```sh
+ ```sh
   cd frontend
    ```
 ```sh
@@ -11,11 +11,10 @@ Frontend
 ```sh
  npm start
    ```
+Backend
 ```sh
-   npm start
+  cd backend
    ```
-
-backend
 ```sh
   nodemon index.js
    ```
