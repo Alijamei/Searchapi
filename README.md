@@ -1,9 +1,19 @@
 # Searchapi
 Installion steps
 Frontend
-*cd frontend
-*npm install 
-*npm start
+```sh
+  cd frontend
+   ```
+```sh
+  npm install
+   ```
+```sh
+ npm start
+   ```
+```sh
+   npm start
+   ```
+
 backend
 *nodemon index.js
 
