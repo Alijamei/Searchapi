@@ -15,7 +15,9 @@ Frontend
    ```
 
 backend
-*nodemon index.js
+```sh
+  nodemon index.js
+   ```
 
 App screenshot
 
